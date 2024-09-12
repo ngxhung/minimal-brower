@@ -1,0 +1,338 @@
+{
+  "about": {
+    "browser": "chrome",
+    "version": "19.2.5"
+  },
+  "showall": true,
+  "lang": "en",
+  "dark": "system",
+  "favicon": "▽",
+  "tabtitle": "H",
+  "greeting": "Hung",
+  "pagegap": 1,
+  "pagewidth": 2200,
+  "time": true,
+  "main": true,
+  "dateformat": "eu",
+  "background_blur": 8,
+  "background_bright": 1,
+  "background_type": "local",
+  "quicklinks": true,
+  "textShadow": 0,
+  "announcements": "all",
+  "review": -1,
+  "css": "#time {color: #f1f1f1}\n",
+  "hide": {
+    "date": false,
+    "greetings": true,
+    "settingsicon": true,
+    "weatherdesc": false,
+    "weathericon": true,
+    "clock": false
+  },
+  "linkstyle": "text",
+  "linknewtab": false,
+  "linksrow": "16",
+  "linksqrfjoi": {
+    "_id": "linksqrfjoi",
+    "order": 4,
+    "title": "Instargram",
+    "url": "https://www.instagram.com/",
+    "icon": "https://cdn-icons-png.flaticon.com/128/3564/3564091.png"
+  },
+  "linkspcipnn": {
+    "_id": "linkspcipnn",
+    "order": 2,
+    "title": "Youtube",
+    "url": "https://youtube.com",
+    "icon": "https://youtube.com"
+  },
+  "linksoijkra": {
+    "_id": "linksoijkra",
+    "order": 5,
+    "parent": 0,
+    "title": "Threads",
+    "url": "https://www.threads.net/"
+  },
+  "linksmbfhog": {
+    "_id": "linksmbfhog",
+    "order": 3,
+    "parent": 0,
+    "title": "Facebook",
+    "url": "https://www.facebook.com/",
+    "icon": "https://api.bonjourr.fr/favicon/blob/https://www.okx.com/vi/campaigns/summer-bonanza-with-tcn?channelid=tradebot"
+  },
+  "linksfqnnld": {
+    "_id": "linksfqnnld",
+    "order": 1,
+    "parent": 0,
+    "title": "Claude",
+    "url": "https://claude.ai/new",
+    "icon": "https://api.bonjourr.fr/favicon/blob/https://calendar.notion.so/"
+  },
+  "linksfbbqic": {
+    "_id": "linksfbbqic",
+    "order": 8,
+    "parent": 0,
+    "title": "Capacities",
+    "url": "https://app.capacities.io/248952f1-fcd6-4901-b763-c78b68b015e9?section=calendar",
+    "icon": "https://api.bonjourr.fr/favicon/blob/https://docs.google.com/spreadsheets/d/1pSTsGY7KKck9ikLUom0fJw2eMy3-bflOsUWzHlxcAPA/edit?gid=0#gid=0"
+  },
+  "linksejgebq": {
+    "_id": "linksejgebq",
+    "order": 6,
+    "parent": 0,
+    "title": "Pinterest",
+    "url": "https://www.pinterest.com/"
+  },
+  "linkscjnhkj": {
+    "_id": "linkscjnhkj",
+    "order": 0,
+    "title": "Gemini",
+    "url": "https://bard.google.com/",
+    "icon": "https://cdn-icons-png.flaticon.com/128/10890/10890540.png"
+  },
+  "linkscejebk": {
+    "_id": "linkscejebk",
+    "order": 7,
+    "parent": 0,
+    "title": "Notion",
+    "url": "https://www.notion.so/ngxhung/School-9f6334c0157c4547841eda1222037881",
+    "icon": "https://api.bonjourr.fr/favicon/blob/https://www.notion.so/0ba60c5cf3cb49529a271ff07e198da6"
+  },
+  "linksabqcdj": {
+    "_id": "linksabqcdj",
+    "order": 9,
+    "parent": 0,
+    "title": "Github",
+    "url": "https://github.com/"
+  },
+  "linktabs": {
+    "active": false,
+    "selected": 0,
+    "titles": [
+      ""
+    ]
+  },
+  "clock": {
+    "ampm": false,
+    "analog": false,
+    "face": "number",
+    "seconds": true,
+    "size": 2,
+    "style": "transparent",
+    "timezone": "auto"
+  },
+  "unsplash": {
+    "collection": "LU0xO5Xqm2M",
+    "every": "pause",
+    "lastCollec": "user",
+    "pausedImage": {
+      "url": "https://images.unsplash.com/photo-1723263573579-d8ac56a39aae?ixid=M3w4ODczOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyNjEyMDEwN3w&ixlib=rb-4.0.3&w=1366&h=768&dpr=1&auto=format&q=75&fit=crop",
+      "city": null,
+      "color": "#597373",
+      "country": null,
+      "exif": {
+        "aperture": "2.8",
+        "exposure_time": "1/1600",
+        "focal_length": "8.4",
+        "iso": 110,
+        "make": "DJI",
+        "model": "FC3411",
+        "name": "DJI, FC3411"
+      },
+      "name": "whosaynow",
+      "link": "https://unsplash.com/photos/an-aerial-view-of-an-island-in-the-middle-of-the-ocean-YK0t6nYNGTI",
+      "username": "whosaynow"
+    },
+    "time": 1726124599724
+  },
+  "weather": {
+    "city": "City",
+    "ccode": "FR",
+    "fcHigh": 17,
+    "fcLast": 1699365600,
+    "forecast": "always",
+    "geolocation": "precise",
+    "lastCall": 1699350869,
+    "lastState": {
+      "description": "broken clouds",
+      "feels_like": 24.29,
+      "icon_id": 803,
+      "sunrise": 1699311730,
+      "sunset": 1699352323,
+      "temp": 24.01,
+      "temp_max": 24.01
+    },
+    "moreinfo": "none",
+    "provider": "",
+    "temperature": "actual",
+    "unit": "metric"
+  },
+  "notes": {
+    "text": "[ ] biology\n[ ] chemistry\n[ ] physics\n[ ] SnR\n\n—————————————————————————————",
+    "align": "left",
+    "on": true,
+    "opacity": 0,
+    "width": 44
+  },
+  "searchbar": {
+    "on": true,
+    "opacity": 0,
+    "width": 44,
+    "engine": "bing",
+    "newtab": false,
+    "placeholder": "Search",
+    "request": "",
+    "suggestions": true
+  },
+  "quotes": {
+    "on": true,
+    "author": true,
+    "frequency": "day",
+    "last": 1726076722876,
+    "type": "user",
+    "userlist": " \n\n\n\n"
+  },
+  "font": {
+    "size": "12.45",
+    "family": "Montserrat",
+    "system": false,
+    "weight": "100",
+    "weightlist": [
+      "100",
+      "200",
+      "300",
+      "400",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
+    ]
+  },
+  "move": {
+    "layouts": {
+      "double": {
+        "grid": [
+          [
+            "time",
+            "time"
+          ],
+          [
+            "searchbar",
+            "notes"
+          ],
+          [
+            "quicklinks",
+            "quicklinks"
+          ]
+        ],
+        "items": {
+          "time": {
+            "box": "",
+            "text": ""
+          },
+          "quicklinks": {
+            "box": "",
+            "text": ""
+          },
+          "notes": {
+            "box": "",
+            "text": ""
+          },
+          "searchbar": {
+            "box": "",
+            "text": ""
+          }
+        }
+      },
+      "single": {
+        "grid": [
+          [
+            "main"
+          ],
+          [
+            "time"
+          ],
+          [
+            "quotes"
+          ],
+          [
+            "notes"
+          ],
+          [
+            "searchbar"
+          ],
+          [
+            "quicklinks"
+          ]
+        ],
+        "items": {
+          "time": {
+            "box": "baseline center",
+            "text": ""
+          },
+          "main": {
+            "box": "baseline end",
+            "text": "right"
+          },
+          "quicklinks": {
+            "box": "end center",
+            "text": ""
+          },
+          "notes": {
+            "box": "end center",
+            "text": ""
+          },
+          "searchbar": {
+            "box": "baseline center",
+            "text": ""
+          }
+        }
+      },
+      "triple": {
+        "grid": [
+          [
+            "time",
+            "time",
+            "time"
+          ],
+          [
+            ".",
+            "notes",
+            "searchbar"
+          ],
+          [
+            ".",
+            "quotes",
+            "quicklinks"
+          ]
+        ],
+        "items": {
+          "time": {
+            "box": "",
+            "text": ""
+          },
+          "quicklinks": {
+            "box": "",
+            "text": ""
+          },
+          "notes": {
+            "box": "",
+            "text": ""
+          },
+          "searchbar": {
+            "box": "",
+            "text": ""
+          },
+          "quotes": {
+            "box": "",
+            "text": ""
+          }
+        }
+      }
+    },
+    "selection": "single"
+  }
+}
