@@ -234,7 +234,7 @@
   "yahoo": "https://search.yahoo.com/search?q=%s",
   "about": {
     "browser": "chrome",
-    "version": "20.1.2"
+    "version": "20.4.2"
   },
   "showall": true,
   "lang": "en",
@@ -248,14 +248,14 @@
   "main": true,
   "dateformat": "eu",
   "background_blur": 0,
-  "background_bright": 1,
+  "background_bright": 0.76,
   "background_type": "local",
   "quicklinks": true,
   "syncbookmarks": 1714894403624,
   "textShadow": 0,
   "announcements": "all",
   "review": -1,
-  "css": "#time, #weather{color: #343434}\n",
+  "css": "#time, #weather{color: #f0f0f0}\n",
   "hide": {
     "date": false,
     "greetings": true,
@@ -277,9 +277,23 @@
     "url": "https://calendar.notion.so/",
     "icon": "https://api.bonjourr.fr/favicon/blob/https://calendar.notion.so/"
   },
+  "linksrgaidm": {
+    "_id": "linksrgaidm",
+    "order": 5,
+    "parent": "Trading",
+    "title": "DATA",
+    "url": "https://legend.coinglass.com/chart/03c70012432e4b36a5b2aeea476690c4"
+  },
+  "linksqiakhi": {
+    "_id": "linksqiakhi",
+    "order": 4,
+    "parent": "AI tools",
+    "title": "DeepSeek",
+    "url": "https://chat.deepseek.com/"
+  },
   "linkspcipnn": {
     "_id": "linkspcipnn",
-    "order": 2,
+    "order": 1,
     "parent": "Social",
     "title": "Youtube",
     "url": "https://youtube.com",
@@ -300,9 +314,23 @@
     "title": "Shopee",
     "url": "https://shopee.vn/"
   },
+  "linksnocmjr": {
+    "_id": "linksnocmjr",
+    "order": 3,
+    "parent": "AI tools",
+    "title": "Perplexity",
+    "url": "https://www.perplexity.ai/"
+  },
+  "linksnhheca": {
+    "_id": "linksnhheca",
+    "order": 2,
+    "parent": "AI tools",
+    "title": "Grok",
+    "url": "https://grok.com/?referrer=website"
+  },
   "linksmbfhog": {
     "_id": "linksmbfhog",
-    "order": 5,
+    "order": 4,
     "parent": "Social",
     "title": "Facebook",
     "url": "https://www.facebook.com/",
@@ -310,7 +338,7 @@
   },
   "linkslgbhch": {
     "_id": "linkslgbhch",
-    "order": 4,
+    "order": 3,
     "parent": "Social",
     "title": "Instagram",
     "url": "https://www.instagram.com/",
@@ -321,15 +349,8 @@
     "order": 2,
     "parent": "Trading",
     "title": "Tradingview",
-    "url": "https://www.tradingview.com/chart/ATdkYgAN/"
-  },
-  "linkshqioml": {
-    "_id": "linkshqioml",
-    "order": 1,
-    "parent": "Social",
-    "title": "Tik tok",
-    "url": "https://tiktok.com",
-    "icon": "1728290490204"
+    "url": "https://www.tradingview.com/chart/ATdkYgAN/?symbol=OANDA%3AXAUUSD",
+    "icon": "https://services.bonjourr.fr/favicon/blob/https://www.tradingview.com/chart/ATdkYgAN/"
   },
   "linksfqnnld": {
     "_id": "linksfqnnld",
@@ -355,7 +376,7 @@
   },
   "linkserpaoo": {
     "_id": "linkserpaoo",
-    "order": 6,
+    "order": 5,
     "parent": "Social",
     "title": "Discord",
     "url": "https://discord.com/channels/@me"
@@ -369,19 +390,18 @@
   },
   "linksejgebq": {
     "_id": "linksejgebq",
-    "order": 3,
+    "order": 2,
     "parent": "Social",
     "title": "Pinterest",
     "url": "https://www.pinterest.com/",
     "icon": "https://api.bonjourr.fr/favicon/blob/https://www.pinterest.com/"
   },
-  "linkscjnhkj": {
-    "_id": "linkscjnhkj",
-    "order": 2,
-    "parent": "AI tools",
-    "title": "Gemini",
-    "url": "https://gemini.google.com/",
-    "icon": "https://api.bonjourr.fr/favicon/blob/https://bard.google.com/"
+  "linksegdhrn": {
+    "_id": "linksegdhrn",
+    "order": 4,
+    "parent": "Trading",
+    "title": "exness",
+    "url": "https://my.exness.com/webtrading/"
   },
   "linkscejebk": {
     "_id": "linkscejebk",
@@ -446,21 +466,23 @@
     ],
     "on": true,
     "pinned": [],
-    "selected": "Social",
+    "selected": "AI tools",
     "synced": []
   },
   "clock": {
+    "face": "none",
     "ampm": false,
     "analog": false,
     "seconds": true,
     "size": 1.75,
+    "style": "round",
     "timezone": "auto"
   },
   "analogstyle": {
-    "background": "#fff0",
+    "background": "#fff2",
     "border": "#ffff",
-    "face": "marks",
-    "hands": "apple",
+    "face": "none",
+    "hands": "modern",
     "shape": "round"
   },
   "worldclocks": [
@@ -478,6 +500,7 @@
       "city": null,
       "color": "#d9d9d9",
       "country": null,
+      "desc": null,
       "exif": {
         "aperture": "6.8",
         "exposure_time": "1/500",
@@ -542,6 +565,38 @@
       21.4988829,
       105.1385181,
       21.4988829,
+      105.1385181,
+      21.4988829,
+      105.1385181,
+      21.4988829,
+      105.1385181,
+      21.4988829,
+      105.1385181,
+      21.4988829,
+      105.1385181,
+      21.4988829,
+      105.1385181,
+      21.4988829,
+      105.1385181,
+      21.4988829,
+      105.1385181,
+      21.4988829,
+      105.1385181,
+      21.4988829,
+      105.1385181,
+      21.4988829,
+      105.1385181,
+      21.4988829,
+      105.1385181,
+      21.4988829,
+      105.1385181,
+      21.4988829,
+      105.1385181,
+      21.4988829,
+      105.1385181,
+      21.4988829,
+      105.1385181,
+      21.4988829,
       105.1385181
     ],
     "moreinfo": "none",
@@ -555,12 +610,13 @@
     "text": "",
     "align": "left",
     "opacity": 0,
-    "width": 41
+    "width": 42
   },
   "searchbar": {
-    "on": false,
+    "background": "#fff0",
+    "on": true,
     "opacity": 0,
-    "width": 44,
+    "width": 42,
     "engine": "bing",
     "newtab": false,
     "placeholder": "Search",
@@ -571,26 +627,21 @@
     "on": true,
     "author": true,
     "frequency": "day",
-    "last": 1728636307656,
+    "last": 1752686977970,
     "type": "user",
     "userlist": " \n\n\n\n"
   },
   "font": {
-    "size": "13.25",
+    "size": "14",
     "family": "Montserrat",
     "system": false,
     "weight": "100",
-    "weightlist": [
-      "100",
-      "200",
-      "300",
-      "400",
-      "500",
-      "600",
-      "700",
-      "800",
-      "900"
-    ]
+    "weightlist": []
+  },
+  "supporters": {
+    "closed": true,
+    "enabled": true,
+    "month": 7
   },
   "move": {
     "layouts": {
@@ -643,6 +694,9 @@
             "notes"
           ],
           [
+            "searchbar"
+          ],
+          [
             "quicklinks"
           ]
         ],
@@ -664,8 +718,12 @@
             "text": ""
           },
           "searchbar": {
-            "box": "end center",
+            "box": "center",
             "text": "center"
+          },
+          "quotes": {
+            "box": "center",
+            "text": ""
           }
         }
       },
