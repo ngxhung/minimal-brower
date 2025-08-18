@@ -6,3 +6,4 @@
 
 ### Bước 4: kéo xuống cuối cùng, xoá hết đống code đó và dán cái vừa copy vào rồi enter
 <img width="1234" height="625" alt="image" src="https://github.com/user-attachments/assets/91ae0055-7f09-487f-8aa0-4ba0a35a8f02" />
+(hình nền kia là cái hình nền hợp với cái setting nhất, nếu không thích thì có thể download đâu đó mà thay vào trong cài đặt tuỳ thích)
