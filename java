@@ -129,15 +129,19 @@
   "font": {
     "size": "14",
     "family": "Montserrat",
-    "system": true,
+    "system": false,
     "weightlist": [
+      "100",
+      "200",
       "300",
       "400",
+      "500",
       "600",
       "700",
-      "800"
+      "800",
+      "900"
     ],
-    "weight": "300"
+    "weight": "100"
   },
   "supporters": {
     "enabled": true,
