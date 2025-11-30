@@ -53,16 +53,17 @@
       "Shopping",
       "Music",
       "film",
-      "Study"
+      "Study",
+      "blank"
     ],
     "pinned": [],
     "synced": []
   },
   "backgrounds": {
     "type": "files",
-    "fadein": 1000,
-    "blur": 9,
-    "bright": 0.82,
+    "fadein": 1200,
+    "blur": 0,
+    "bright": 1,
     "frequency": "pause",
     "color": "#185A63",
     "urls": "",
@@ -102,19 +103,19 @@
   "notes": {
     "on": true,
     "background": "#fff0",
-    "width": 37,
+    "width": 36,
     "opacity": 0,
     "align": "left",
-    "text": "## "
+    "text": "thọc làm nhạc remix cho bài all mine love gì đó"
   },
   "searchbar": {
     "on": false,
     "background": "#fff0",
-    "width": 42,
+    "width": 36,
     "opacity": 0,
     "newtab": false,
     "suggestions": true,
-    "engine": "bing",
+    "engine": "default",
     "request": "",
     "placeholder": "Search"
   },
@@ -123,7 +124,7 @@
     "type": "user",
     "frequency": "day",
     "author": true,
-    "last": 1762367606740,
+    "last": 1764512898380,
     "userlist": " \n\n\n\n"
   },
   "font": {
@@ -218,11 +219,11 @@
           },
           "notes": {
             "text": "",
-            "box": "end center"
+            "box": "center"
           },
           "searchbar": {
             "text": "center",
-            "box": "center"
+            "box": "end center"
           },
           "quotes": {
             "text": "",
@@ -410,6 +411,13 @@
     "title": "Z-library",
     "url": "https://1lib.sk/"
   },
+  "linkshrqkpb": {
+    "_id": "linkshrqkpb",
+    "order": 8,
+    "parent": "AI tools",
+    "title": "NotebookLM",
+    "url": "https://notebooklm.google.com/?icid=home_maincta"
+  },
   "linksjbbnci": {
     "_id": "linksjbbnci",
     "order": 2,
@@ -422,9 +430,9 @@
     "_id": "linksjkgdhd",
     "order": 4,
     "parent": "AI tools",
-    "title": "Gemini",
+    "title": "AI studio",
     "url": "https://aistudio.google.com/prompts/new_chat",
-    "icon": "1757166940962"
+    "icon": "https://services.bonjourr.fr/favicon/blob/https://aistudio.google.com/prompts/new_chat"
   },
   "linkskcokdd": {
     "_id": "linkskcokdd",
